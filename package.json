@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/finnp/tab-navigation-fix/issues"
   },
-  "homepage": "https://github.com/finnp/tab-navigation-fix"
+  "homepage": "https://github.com/finnp/tab-navigation-fix",
+  "dependencies": {
+    "hashchange": "^1.0.0"
+  }
 }
