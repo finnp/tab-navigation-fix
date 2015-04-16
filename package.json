@@ -1,0 +1,27 @@
+{
+  "name": "tab-navigation-fix",
+  "version": "1.0.0",
+  "description": "Fix anchor jumps on chrome and IE for tab navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/tab-navigation-fix.git"
+  },
+  "keywords": [
+    "skip-to-content",
+    "skip-navigation",
+    "navigation",
+    "skip",
+    "a11y",
+    "accessibility"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/tab-navigation-fix/issues"
+  },
+  "homepage": "https://github.com/finnp/tab-navigation-fix"
+}
